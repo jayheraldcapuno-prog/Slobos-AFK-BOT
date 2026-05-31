@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CitySmp092.aternos.me:42440",
+    "ip": "CitySmp092.aternos.me",
     "port": 42440,
     "version": "1.21.11"
   },
